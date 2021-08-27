@@ -7,7 +7,7 @@
     "example": "root"
   },
   "scripts": {
-    "start": "node gulpfile.js",
+    "start": "node t.js",
   },
   "repository": {
     "type": "git",
