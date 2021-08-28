@@ -6,8 +6,9 @@
   "directories": {
     "example": "root"
   },
-  "scripts": {
-    "start": "node t.js",
+    "scripts": {
+    "start": "node black-dashboard.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
